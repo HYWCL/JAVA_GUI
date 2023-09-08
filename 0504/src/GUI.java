@@ -16,6 +16,8 @@ public class GUI {
         // 레이블 생성
         JLabel label = new JLabel();
         
+        frame.add(label);
+        
         JButton chooseButton = new JButton("이미지 선택");
         chooseButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
