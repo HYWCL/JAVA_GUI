@@ -22,5 +22,7 @@ public class GUI {
 
         // 프레임 표시
         frame.setVisible(true);
+        
+        
     }
 }
