@@ -1,3 +1,7 @@
+/* 이미지를 불러오고 밝기를 조절하는 GUI를 만들겠습니다.
+ * 빨리 만들면 그 후에 더 추가해보겠습니다.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
